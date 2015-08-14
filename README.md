@@ -1,6 +1,6 @@
-# Millennials to Snake People
+# ENSLAVED PEOPLE
 
-Browser extension that reveals the *real* truth behind Millennials.
+Browser extension that reminds us how powerful people enslaved Africans for their own financial profit.
 
 
 ## Installation
@@ -18,26 +18,11 @@ Browser extension that reveals the *real* truth behind Millennials.
 
 
 ## Thanks
-Big thanks to [samford](https://github.com/samford) and [vandahm](https://github.com/vandahm) for their assistance, and [a2](https://github.com/a2) and [pselle](https://github.com/pselle) for the Safari and Firefox ports. 
 
 
 ## Screenshots
 
-### Google Search Results
-[![Google Search Results](https://i.imgur.com/GTBOuEr.png)](https://www.google.com/search?q=Millennials)
 
-### The Atlantic
-[![The Atlantic](https://i.imgur.com/LDFOsrO.png)](http://www.theatlantic.com/politics/archive/2013/08/the-outsiders-how-can-millennials-change-washington-if-they-hate-it/278920/)
-
-### BuzzFeed
-[![BuzzFeed](https://i.imgur.com/PT1NWX5.png)](http://www.buzzfeed.com/sapna/what-public-companies-are-telling-wall-street-about-millenni)
-
-### Installed Extensions
-#### Chrome
-![](https://i.imgur.com/xAzfhw8.png)
-
-#### Firefox
-![](http://i.imgur.com/ro9zkDl.png)
 
 #### Safari
 ![](https://camo.githubusercontent.com/e244891000642e281c202b4fbd07b14fcf2bf4d7/687474703a2f2f61322e642e70722f477757712e706e67)
