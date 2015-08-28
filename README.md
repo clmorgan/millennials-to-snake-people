@@ -9,16 +9,10 @@ Browser extension that reminds us how powerful people enslaved Africans for thei
   - [Chrome](https://chrome.google.com/webstore/detail/millennials-to-snake-peop/jhkibealmjkbkafogihpeidfcgnigmlf)
   - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/millennials-to-snake-people/)
   - [Safari](https://github.com/a2/millennials-to-snake-people/releases)
-- [Free your mind](https://www.google.com/search?q=Millennials)
-
-
-## Also
-- Follow [@snakepeople_bot](https://twitter.com/snakepeople_bot) on Twitter, courtesy of [jimkang](https://github.com/jimkang)'s [hail-ants-bot](https://github.com/jimkang/hail-ants-bot)
-- Check out [Cloud to Butt Plus](https://chrome.google.com/webstore/detail/cloud-to-butt-plus/apmlngnhgbnjpajelfkmabhkfapgnoai?hl=en), [SJW to Skeleton](https://chrome.google.com/webstore/detail/sjw-to-skeleton/kckodmjikeoncekpplppkkcjolofmacc?hl=en), [Millennials Begone!](https://chrome.google.com/webstore/detail/millennials-begone/dlgjecnejicmpdknhangcbeahbgipolf?hl=en)
-
+- [Explore history in a whole new way!](https://www.google.com/search?q=George Washington)
 
 ## Thanks
-
+To Ericwbailey, original maker of the millennials-to-snake-people script
 
 ## Screenshots
 
