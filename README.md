@@ -1,6 +1,6 @@
 # ENSLAVED PEOPLE
 
-Browser extension that reminds us how powerful people enslaved Africans for their own financial profit.
+Browser extension that reminds us how powerful people enslaved Africans and indigenous peoples for their own financial profit.
 
 
 ## Installation
